@@ -193,11 +193,6 @@ print_metrics(metrics, ["True","False"])
 # False           0.356   0.607   0.449   848
 
 
-
-
-
-
-
 # Attempt 3 - improve the context given to the model as class labels
 # Also use consolidated severe and moderate annotations
 
