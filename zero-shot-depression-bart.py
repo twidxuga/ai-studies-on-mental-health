@@ -158,11 +158,6 @@ print_metrics(metrics, out_labels)
 # not depression  0.373   0.059   0.102   848
 
 
-
-
-
-
-
 # Attempt 2 - consolidate severe and moderate in the same depressed category
 
 # consolidate severe and moderate from non-depression
